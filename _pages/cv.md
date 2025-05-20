@@ -16,13 +16,18 @@ Education
 
 Work experience
 ======
-* 2018 - now: Lecturer in Informatics Engineering Study Program
+* March 2018 - now: Lecturer in Informatics Engineering Study Program
   * Faculty of Engineering, Sam Ratulangi University
   * Duties includes: Teaching, Research and Community service
 
-* September 2017: Asistant IT Manager
+* September 2017 - January 2018: Asistant IT Manager
   * Aston Manado Hotel, Archipelago International
   * Duties included: Maintaining and documenting IT infrastructure and service at hotel from back office to guest area. This involves internet and computer network from server room to end-user device, Property Management System, Door lock system. Also, providing failover procedure for the operational system component as well as Staff training and guide.
+
+* September 2016 - September 2017: IT Supervisor
+  * Aston Manado Hotel, Archipelago International
+  * Duties included: Maintaining and documenting IT infrastructure and service at hotel from back office to guest area. This involves internet and computer network from server room to end-user device, Property Management System, Door lock system. Also, providing failover procedure for the operational system component as well as Staff training and guide.
+
   
 <!-- Skills
 ======
@@ -45,11 +50,11 @@ Publications
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
   
-Teaching
+<!-- Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 <!-- Service and leadership
 ======

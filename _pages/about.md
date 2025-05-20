@@ -11,7 +11,7 @@ Dirko holds a Master of Engineering degree in Electrical Engineering and Informa
 
 Research Interest
 ------
-Semantic Web, Knowledge Representation, Ontology, Web of Things, Web Development
+Semantic Web, Knowledge Representation, Ontology, Web of Things, Web Development, Web of Things
 
 Teaching
 ------
