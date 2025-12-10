@@ -1,7 +1,7 @@
 ---
 title: "An Efficient and Effective Sea Turtle Detection Using Positioning Enhancement Module"
 collection: publications
-category: manuscripts
+category: conferences
 permalink: /publication/2024-08-28-paper-An Efficient and Effective Sea Turtle Detection Using Positioning Enhancement Module
 excerpt: 'This task contributes to observing the behaviors by deploying underwater robots, ensuring minimal disruption to their natural activities'
 date: 2024-08-28
